@@ -13,7 +13,7 @@ header {
     padding: 30px 100px;
     display: flex;
     justify-content: space-between;
-    align-i4tems: center;
+    align-items: center;
     z-index: 100;
     background-color: rgb(251, 249, 249);
 }
